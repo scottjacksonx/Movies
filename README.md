@@ -6,5 +6,5 @@ I wrote Movies to learn about iPhone web app development and HTML5 (local storag
 
 ##Use
 
-1. On your iPhone or iPod Touch, go to http://scottjackson.org/movies
+1. On your iPhone or iPod Touch, go to [http://scottjackson.org/movies](http://scottjackson.org/movies)
 2. Press the + button at the bottom of the screen and select "Add to Home Screen."
